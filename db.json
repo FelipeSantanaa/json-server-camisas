@@ -1,0 +1,106 @@
+{
+  "camisas": [
+    {
+      "id": 1,
+      "titulo": "Camisa Brasil 2022 - Amarela",
+      "tamanhos": "P, M, G, GG, XGG",
+      "time": "Brasil",
+      "imagemFrente": "assets/images/brasil-2022-amarela-frente.jpg",
+      "imagemCosta":"assets/images/brasil-2022-amarela-costa.jpg",
+      "new": true,
+      "preco": 160
+    },
+    {
+      "id": 2,
+      "titulo": "Camisa Brasil 2022 - Azul",
+      "tamanhos": "P, M, G, GG, XGG",
+      "time": "Brasil",
+      "imagemFrente": "assets/images/brasil-2022-azul-frente.jpg",
+      "imagemCosta":"assets/images/brasil-2022-azul-costa.jpg",
+       "new": true,
+      "preco": 160
+    },
+  {
+    "id": 3,
+    "titulo": "Camisa Brasil Polo 2018 - Branca",
+    "tamanhos": "P, M, G, GG, XGG",
+    "time": "Brasil",
+    "imagemFrente": "assets/images/brasil-2018-polo-branca-frente.jpg",
+    "imagemCosta":"assets/images/brasil-2018-polo-branca-costa.jpg",
+    "new": false,
+    "preco": 130
+  },
+{
+  "id": 4,
+  "titulo": "Camisa Brasil Concept 2022 - Branca",
+  "tamanhos": "P, M, G, GG, XGG",
+  "time": "Brasil",
+  "imagemFrente": "assets/images/brasil-concept-branca-frente.jpg",
+  "imagemCosta":"assets/images/brasil-concept-branca-costa.jpg",
+  "new": false,
+    "preco": 130
+},
+{
+  "id": 5,
+  "titulo": "Camisa Brasil 2018 Polo - Preta",
+  "tamanhos": "P, M, G, GG, XGG",
+  "time": "Brasil",
+  "imagemFrente": "assets/images/brasil-2018-polo-preta-frente.jpg",
+  "imagemCosta":"assets/images/brasil-2018-polo-preta-costa.jpg",
+  "new": false,
+    "preco": 130
+},
+{
+  "id": 6,
+  "titulo": "Camisa Brasil 2018 Polo - Amarela",
+  "tamanhos": "P, M, G, GG, XGG",
+  "time": "Brasil",
+  "imagemFrente": "assets/images/brasil-2018-polo-amarela-frente.jpg",
+  "imagemCosta":"assets/images/brasil-2018-polo-amarela-costa.jpg",
+  "new": false,
+    "preco": 130
+},
+{
+  "id": 7,
+  "titulo": "Camisa Brasil Concept 2022 - Preta",
+  "tamanhos": "P, M, G, GG, XGG",
+  "time": "Brasil",
+  "imagemFrente": "assets/images/brasil-concept-preta-cacto-frente.jpg",
+  "imagemCosta":"assets/images/brasil-concept-preta-cacto-frente.jpg",
+  "new": false,
+    "preco": 130
+},
+{
+  "id": 8,
+  "titulo": "Camisa Brasil Concept 2022 - Amarela",
+  "tamanhos": "P, M, G, GG, XGG",
+  "time": "Brasil",
+  "imagemFrente": "assets/images/brasil-concept-amarela-cristo-frente.jpg",
+  "imagemCosta":"assets/images/brasil-concept-amarela-cristo-costa.jpg",
+  "new": false,
+    "preco": 130
+},
+{
+  "id": 9,
+  "titulo": "Camisa Brasil Treino 2018 - Azul",
+  "tamanhos": "P, M, G, GG, XGG",
+  "time": "Brasil",
+  "imagemFrente": "assets/images/brasil-2018-polo-azul-treino-frente.jpg",
+  "imagemCosta":"assets/images/brasil-2018-polo-azul-treino-costa.jpg",
+  "new": false,
+    "preco": 130
+},
+{
+  "id": 10,
+  "titulo": "Camisa Brasil Retrô 1993 - Amarela",
+  "tamanhos": "P, M, G, GG, XGG",
+  "time": "Brasil",
+  "imagemFrente": "assets/images/brasil-retro-1993-amarela-frente.jpg",
+  "imagemCosta":"assets/images/brasil-retro-1993-amarela-frente.jpg",
+  "new": false,
+    "preco": 150
+}
+
+
+  ]
+}
